@@ -1,8 +1,11 @@
 ## Carl Alcott
 
-Infrastructure and security engineer. Building and operating network,
-systems, and security infrastructure since 2005, across managed-services and
-K-12 environments.
+Systems and network administrator. Building and operating infrastructure
+since 2005, across managed services, K-12, and higher education.
+
+Windows Server and Active Directory, Microsoft 365 and Exchange, VMware and
+Hyper-V, multi-vendor switching and firewalls, campus networks, and security
+operations — alongside the Linux, detection, and automation work below.
 
 Lake of the Ozarks, Missouri
 
