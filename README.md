@@ -1,6 +1,6 @@
 ## Carl Alcott
 
-Systems &amp; Network Administrator · Infrastructure &amp; Security Engineer
+Systems & Network Administrator · Infrastructure & Security Engineer
 
 Building and operating infrastructure since 2005, across managed services,
 K-12, and higher education.
