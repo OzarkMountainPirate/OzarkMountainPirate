@@ -7,7 +7,7 @@ Windows Server and Active Directory, Microsoft 365 and Exchange, VMware and
 Hyper-V, multi-vendor switching and firewalls, campus networks, and security
 operations — alongside the Linux, detection, and automation work below.
 
-Lake of the Ozarks, Missouri
+**[resume.alcott.dev](https://resume.alcott.dev)** · Lake of the Ozarks, Missouri
 
 ---
 
@@ -34,6 +34,7 @@ security tooling:
 | **[ark-fleet](https://github.com/OzarkMountainPirate/ark-fleet)** | Infrastructure as code from bare metal up — PXE unattended install, Ansible configuration management, lint CI on every push. |
 | **[utilities](https://github.com/OzarkMountainPirate/utilities)** | Linux administration tooling, including a 3-2-1 ZFS backup stack built on Sanoid, Syncoid and Restic. |
 | **[sslh-vpn-edge](https://github.com/OzarkMountainPirate/sslh-vpn-edge)** | A web server and an OpenVPN endpoint sharing one IP and one TCP port, documented down to how conformance-based detection classifies the result. |
+| **[resume-site](https://github.com/OzarkMountainPirate/resume-site)** | The site above. Built by CI and deployed over an access-controlled tunnel to a host with no inbound ports — source and pipeline both public. |
 
 Each repository documents a working deployment rather than a tutorial, and
 every one of them is GPL-3.0 or MIT.
