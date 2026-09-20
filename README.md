@@ -1,7 +1,9 @@
 ## Carl Alcott
 
-Systems and network administrator. Building and operating infrastructure
-since 2005, across managed services, K-12, and higher education.
+Systems &amp; Network Administrator · Infrastructure &amp; Security Engineer
+
+Building and operating infrastructure since 2005, across managed services,
+K-12, and higher education.
 
 Windows Server and Active Directory, Microsoft 365 and Exchange, VMware and
 Hyper-V, multi-vendor switching and firewalls, campus networks, and security
